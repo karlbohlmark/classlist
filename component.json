@@ -1,0 +1,9 @@
+{
+  "name": "classlist",
+  "description": "classList polyfill by Eli Grey",
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
